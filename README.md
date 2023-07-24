@@ -14,5 +14,7 @@ This project stands as a testament to my coding, design, and system implementati
 ![image](https://github.com/Anuj2004jain/Employee-In-Out-Track_Management-System/assets/91856817/a170cc0c-a294-4473-a346-ed1b66360bbd)
 ![image](https://github.com/Anuj2004jain/Employee-In-Out-Track_Management-System/assets/91856817/e3d30875-5dd0-4bbf-b381-8e55612479f4)
 ![image](https://github.com/Anuj2004jain/Employee-In-Out-Track_Management-System/assets/91856817/b9738630-3adc-4047-8bfc-873e68f40464)
+![image](https://github.com/Anuj2004jain/Employee-In-Out-Track_Management-System/assets/91856817/c950c1ab-5b1f-4e9a-9641-9a9ecf1a1041)
+![image](https://github.com/Anuj2004jain/Employee-In-Out-Track_Management-System/assets/91856817/537c7d21-3d82-4b8b-935e-4bc95bc6145d)
 
 
