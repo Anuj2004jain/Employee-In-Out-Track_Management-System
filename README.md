@@ -7,3 +7,13 @@ Furthermore, the system offers comprehensive reporting features, providing the a
 
 This project stands as a testament to my coding, design, and system implementation skills. It demonstrates my ability to understand user requirements and translate them into functional and efficient digital solutions.
 
+![image](https://github.com/Anuj2004jain/Employee-In-Out-Track_Management-System/assets/91856817/1d7a7250-a2c4-4055-8c34-fd2cb8c27039)
+![image](https://github.com/Anuj2004jain/Employee-In-Out-Track_Management-System/assets/91856817/7b35c670-eade-452e-be86-b1ac093d9357)
+![image](https://github.com/Anuj2004jain/Employee-In-Out-Track_Management-System/assets/91856817/cb2b75b5-5f17-4c0b-88e3-240535914543)
+
+![image](https://github.com/Anuj2004jain/Employee-In-Out-Track_Management-System/assets/91856817/a170cc0c-a294-4473-a346-ed1b66360bbd)
+![image](https://github.com/Anuj2004jain/Employee-In-Out-Track_Management-System/assets/91856817/e3d30875-5dd0-4bbf-b381-8e55612479f4)
+![image](https://github.com/Anuj2004jain/Employee-In-Out-Track_Management-System/assets/91856817/b9738630-3adc-4047-8bfc-873e68f40464)
+![image](https://github.com/Anuj2004jain/Employee-In-Out-Track_Management-System/assets/91856817/b824df55-f29f-4c78-b6b9-76e6502bb9ca)
+
+
